@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580416378611.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3786128453",
+    "id" : "C03349F2",
+    "lastKnownWriteTime" : 1580416401,
+    "last_content_update" : 1580416401342,
+    "path" : "~/sec-data/access-data.R",
+    "project_path" : "access-data.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
